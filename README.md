@@ -7,9 +7,9 @@ Player_1 and Player_2 can play the classic rock paper scissors game.
 
 Rules:
        Winner    Losers
-    1. Paper >   Rock
-    2. Scissor > Paper
-    3. Rock >    Scissor
+     - Paper >   Rock
+     - Scissor > Paper
+     - Rock >    Scissor
 
 Workflow:
 - Player_1 requests a newGame with newPlayer(Player_2).
